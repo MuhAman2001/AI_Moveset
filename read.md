@@ -23,6 +23,6 @@ https://unity.com/releases/editor/whats-new/2021.3.16
 ```bash
 1. Download this or clone this repository.
 2. Place the folder "AI_Moveset_Extension" alongside your unity proejects.
-3. Goto Unity Hub and click on: "Open > Add project" from disk.
+3. Goto Unity Hub and click on: "Open > Add project from disk."
 4. Launch the Project and Start your development.
 ```
