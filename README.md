@@ -1,5 +1,9 @@
 # AI Moveset
-A unity Extenstion to help integrate RNN synthesized Humaniod animations into your games.
+
+
+A unity Extenstion to help integrate RNN synthesized Humaniod animations into yourgames.
+
+
 ![teaser](./Image1.png)
 ![teaser](./Image2.png)
 
