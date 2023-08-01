@@ -1,7 +1,7 @@
 
 # AI Moveset
 A unity Extenstion to help integrate RNN synthesized Humaniod animations into your games.
-
+![teaser](./Image1.png)
 
 ## Environment Setup
 ### Required Python Version: 3.7.16
