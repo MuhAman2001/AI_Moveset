@@ -12,3 +12,7 @@ pip install tensorflow==1.14.0
 pip install fastapi
 pip install uvicorn
 ```
+
+### Required Unity Editor:  2021.3.16f1
+
+### Steps for installation
