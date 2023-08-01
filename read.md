@@ -1,6 +1,6 @@
 
 # AI Moveset
-A unity Extenstion to integrate RNN synthesized Humaniod animations into your games.
+A unity Extenstion to help integrate RNN synthesized Humaniod animations into your games.
 
 
 ## Environment Setup
@@ -14,5 +14,13 @@ pip install uvicorn
 ```
 
 ### Required Unity Editor:  2021.3.16f1
+#### You can download it from here:
+```bash
+https://unity.com/releases/editor/whats-new/2021.3.16
+```
+### Steps for installation:
 
-### Steps for installation
+```bash
+1. Download this repository.
+2. 
+```
